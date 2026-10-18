@@ -1,29 +1,34 @@
 # SQL Server Practice
 
-## About
-This repository contains my practice exercises in SQL Server using T-SQL. It covers variables, conditional statements, loops, and stored procedures.
+A collection of T-SQL practice exercises using the **Northwind Sample Database** to learn and practice SQL Server programming concepts.
 
 ## Topics Covered
 
-- **Variables:** Declaring variables and storing query results.
-- **IF...ELSE Statements:** Using conditions to make decisions.
-- **WHILE Loops:** Repeating statements while a condition is true.
-- **Stored Procedures:** Creating, altering, executing, and dropping stored procedures.
-- **Parameters:** Using input parameters and default parameter values.
-- **OUTPUT Parameters:** Returning values from stored procedures using output parameters.
-- **RETURN Statements:** Returning an integer status value from a stored procedure.
+- **Variables** — Declaring variables and storing query results.
+- **Conditional Statements** — Using `IF...ELSE` to evaluate conditions.
+- **Loops** — Using `WHILE` to repeat SQL statements.
+- **Stored Procedures** — Creating, altering, executing, and dropping procedures.
+- **Input Parameters** — Passing values to stored procedures.
+- **Default Parameters** — Defining default parameter values.
+- **OUTPUT Parameters** — Returning values through output parameters.
+- **RETURN Statements** — Returning integer values from stored procedures.
 
 ## Database
-The exercises use the Employees and Products tables from the Northwind sample database.
 
-## Tools
+**Northwind Sample Database**
+
+The exercises use the `Employees` and `Products` tables.
+
+## Tools & Technologies
+
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
-- T-SQL
+- Transact-SQL (T-SQL)
 
 ## Purpose
-The purpose of this repository is to practice SQL Server fundamentals and improve my understanding of database programming.
 
-## Note
-These are learning exercises. Some examples modify product prices in the database, so use a test database when executing update statements.
+To strengthen my understanding of SQL Server fundamentals through practical exercises and hands-on coding.
 
+---
+
+*This repository is part of my SQL Server learning journey.*
