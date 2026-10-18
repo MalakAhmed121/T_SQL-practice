@@ -1,10 +1,5 @@
 # 💻 SQL Server Practice
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-T--SQL-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Database-Northwind-blue?style=for-the-badge" alt="Northwind Database">
-  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" alt="Learning">
-</p>
 
 ### 📌 About
 
