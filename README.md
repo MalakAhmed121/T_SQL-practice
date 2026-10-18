@@ -1,34 +1,45 @@
-# SQL Server Practice
+# 💻 SQL Server Practice
 
-A collection of T-SQL practice exercises using the **Northwind Sample Database** to learn and practice SQL Server programming concepts.
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-T--SQL-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Database-Northwind-blue?style=for-the-badge" alt="Northwind Database">
+  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" alt="Learning">
+</p>
 
-## Topics Covered
+### 📌 About
 
-- **Variables** — Declaring variables and storing query results.
-- **Conditional Statements** — Using `IF...ELSE` to evaluate conditions.
-- **Loops** — Using `WHILE` to repeat SQL statements.
-- **Stored Procedures** — Creating, altering, executing, and dropping procedures.
-- **Input Parameters** — Passing values to stored procedures.
-- **Default Parameters** — Defining default parameter values.
-- **OUTPUT Parameters** — Returning values through output parameters.
-- **RETURN Statements** — Returning integer values from stored procedures.
+A collection of **T-SQL practice exercises** using the **Northwind Sample Database** to explore SQL Server programming concepts and improve database programming skills.
 
-## Database
+### 📚 Topics Covered
+
+- 🔹 **Variables** — Declaring variables and storing query results.
+- 🔹 **IF...ELSE Statements** — Applying conditional logic.
+- 🔹 **WHILE Loops** — Repeating SQL statements based on conditions.
+- 🔹 **Stored Procedures** — Creating, altering, executing, and dropping procedures.
+- 🔹 **Input Parameters** — Passing values to stored procedures.
+- 🔹 **Default Parameters** — Defining default parameter values.
+- 🔹 **OUTPUT Parameters** — Returning values through output parameters.
+- 🔹 **RETURN Statements** — Returning integer values from stored procedures.
+
+### 🗄️ Database
 
 **Northwind Sample Database**
 
-The exercises use the `Employees` and `Products` tables.
+Tables used:
+- `Employees`
+- `Products`
 
-## Tools & Technologies
+### 🛠️ Tools & Technologies
 
-- Microsoft SQL Server
-- SQL Server Management Studio (SSMS)
-- Transact-SQL (T-SQL)
+- 💾 Microsoft SQL Server
+- 🖥️ SQL Server Management Studio (SSMS)
+- 📝 Transact-SQL (T-SQL)
 
-## Purpose
+### 🎯 Goal
 
-To strengthen my understanding of SQL Server fundamentals through practical exercises and hands-on coding.
+To strengthen my SQL Server fundamentals through hands-on practice and build a solid understanding of database programming.
 
 ---
 
-*This repository is part of my SQL Server learning journey.*
+⭐ *Part of my journey in learning SQL Server and database development.*
+
