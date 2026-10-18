@@ -1,6 +1,5 @@
 # 💻 SQL Server Practice
 
-
 ### 📌 About
 
 A collection of **T-SQL practice exercises** using the **Northwind Sample Database** to explore SQL Server programming concepts and improve database programming skills.
